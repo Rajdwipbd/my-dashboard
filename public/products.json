@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop 1",
+        "category": "Electronics",
+        "price": 800,
+        "stock": 10,
+        "status": "Available",
+        "image": "https://i.ibb.co.com/sv17hnPf/Gemini-Generated-Image-67vtuj67vtuj67vt.png"
+    },
+    {
+        "id": 2,
+        "name": "Laptop 2",
+        "category": "Electronics",
+        "price": 850,
+        "stock": 5,
+        "status": "Available",
+        "image": "https://i.ibb.co.com/ynPD5c83/Gemini-Generated-Image-1qzjqv1qzjqv1qzj.png"
+    },
+    {
+        "id": 3,
+        "name": "Chair 1",
+        "category": "Furniture",
+        "price": 120,
+        "stock": 0,
+        "status": "Out of Stock",
+        "image": "https://i.ibb.co.com/0pJxRWwX/Gemini-Generated-Image-hldcymhldcymhldc.png"
+    },
+    {
+        "id": 4,
+        "name": "Chair 2",
+        "category": "Furniture",
+        "price": 150,
+        "stock": 8,
+        "status": "Available",
+        "image": "https://i.ibb.co.com/Kx75Lw8Y/Gemini-Generated-Image-vk5xhuvk5xhuvk5x.png"
+    },
+    {
+        "id": 5,
+        "name": "T-Shirt 1",
+        "category": "Clothing",
+        "price": 20,
+        "stock": 50,
+        "status": "Available",
+        "image": " https://i.ibb.co.com/h1XtFYPm/Gemini-Generated-Image-rxer28rxer28rxer.png"
+    },
+    {
+        "id": 6,
+        "name": "T-Shirt 2",
+        "category": "Clothing",
+        "price": 25,
+        "stock": 0,
+        "status": "Out of Stock",
+        "image": "https://i.ibb.co.com/60MzM4Bq/Gemini-Generated-Image-fxnjjlfxnjjlfxnj.png"
+    },
+    {
+        "id": 7,
+        "name": "Smartphone 1",
+        "category": "Electronics",
+        "price": 500,
+        "stock": 15,
+        "status": "Available",
+        "image": "https://i.ibb.co.com/PsVj9nKP/Gemini-Generated-Image-ty7f3nty7f3nty7f.png"
+    },
+    {
+        "id": 8,
+        "name": "Smartphone 2",
+        "category": "Electronics",
+        "price": 600,
+        "stock": 0,
+        "status": "Out of Stock",
+        "image": "https://i.ibb.co.com/yn50N6NG/Gemini-Generated-Image-vmxccavmxccavmxc.png"
+    },
+    {
+        "id": 9,
+        "name": "Table 1",
+        "category": "Furniture",
+        "price": 200,
+        "stock": 7,
+        "status": "Available"
+    },
+    {
+        "id": 10,
+        "name": "Table 2",
+        "category": "Furniture",
+        "price": 220,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 11,
+        "name": "Shoes 1",
+        "category": "Footwear",
+        "price": 60,
+        "stock": 20,
+        "status": "Available"
+    },
+    {
+        "id": 12,
+        "name": "Shoes 2",
+        "category": "Footwear",
+        "price": 70,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 13,
+        "name": "Backpack 1",
+        "category": "Accessories",
+        "price": 40,
+        "stock": 15,
+        "status": "Available"
+    },
+    {
+        "id": 14,
+        "name": "Backpack 2",
+        "category": "Accessories",
+        "price": 45,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 15,
+        "name": "Headphone 1",
+        "category": "Electronics",
+        "price": 150,
+        "stock": 12,
+        "status": "Available"
+    },
+    {
+        "id": 16,
+        "name": "Headphone 2",
+        "category": "Electronics",
+        "price": 180,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 17,
+        "name": "Monitor 1",
+        "category": "Electronics",
+        "price": 300,
+        "stock": 10,
+        "status": "Available"
+    },
+    {
+        "id": 18,
+        "name": "Monitor 2",
+        "category": "Electronics",
+        "price": 350,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 19,
+        "name": "Keyboard 1",
+        "category": "Electronics",
+        "price": 50,
+        "stock": 25,
+        "status": "Available"
+    },
+    {
+        "id": 20,
+        "name": "Keyboard 2",
+        "category": "Electronics",
+        "price": 55,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 21,
+        "name": "Mouse 1",
+        "category": "Electronics",
+        "price": 30,
+        "stock": 30,
+        "status": "Available"
+    },
+    {
+        "id": 22,
+        "name": "Mouse 2",
+        "category": "Electronics",
+        "price": 35,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 23,
+        "name": "Bag 1",
+        "category": "Accessories",
+        "price": 50,
+        "stock": 20,
+        "status": "Available"
+    },
+    {
+        "id": 24,
+        "name": "Bag 2",
+        "category": "Accessories",
+        "price": 55,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 25,
+        "name": "Watch 1",
+        "category": "Accessories",
+        "price": 100,
+        "stock": 10,
+        "status": "Available"
+    },
+    {
+        "id": 26,
+        "name": "Watch 2",
+        "category": "Accessories",
+        "price": 120,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 27,
+        "name": "Glasses 1",
+        "category": "Accessories",
+        "price": 80,
+        "stock": 5,
+        "status": "Available"
+    },
+    {
+        "id": 28,
+        "name": "Glasses 2",
+        "category": "Accessories",
+        "price": 90,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 29,
+        "name": "Jacket 1",
+        "category": "Clothing",
+        "price": 60,
+        "stock": 15,
+        "status": "Available"
+    },
+    {
+        "id": 30,
+        "name": "Jacket 2",
+        "category": "Clothing",
+        "price": 70,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 31,
+        "name": "Socks 1",
+        "category": "Clothing",
+        "price": 5,
+        "stock": 50,
+        "status": "Available"
+    },
+    {
+        "id": 32,
+        "name": "Socks 2",
+        "category": "Clothing",
+        "price": 6,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 33,
+        "name": "Pen 1",
+        "category": "Stationery",
+        "price": 2,
+        "stock": 100,
+        "status": "Available"
+    },
+    {
+        "id": 34,
+        "name": "Pen 2",
+        "category": "Stationery",
+        "price": 3,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 35,
+        "name": "Notebook 1",
+        "category": "Stationery",
+        "price": 5,
+        "stock": 40,
+        "status": "Available"
+    },
+    {
+        "id": 36,
+        "name": "Notebook 2",
+        "category": "Stationery",
+        "price": 6,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 37,
+        "name": "Bottle 1",
+        "category": "Accessories",
+        "price": 10,
+        "stock": 25,
+        "status": "Available"
+    },
+    {
+        "id": 38,
+        "name": "Bottle 2",
+        "category": "Accessories",
+        "price": 12,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 39,
+        "name": "Bagpack 3",
+        "category": "Accessories",
+        "price": 45,
+        "stock": 15,
+        "status": "Available"
+    },
+    {
+        "id": 40,
+        "name": "Bagpack 4",
+        "category": "Accessories",
+        "price": 50,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 41,
+        "name": "Tablet 1",
+        "category": "Electronics",
+        "price": 300,
+        "stock": 5,
+        "status": "Available"
+    },
+    {
+        "id": 42,
+        "name": "Tablet 2",
+        "category": "Electronics",
+        "price": 350,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 43,
+        "name": "Camera 1",
+        "category": "Electronics",
+        "price": 600,
+        "stock": 7,
+        "status": "Available"
+    },
+    {
+        "id": 44,
+        "name": "Camera 2",
+        "category": "Electronics",
+        "price": 650,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 45,
+        "name": "Printer 1",
+        "category": "Electronics",
+        "price": 200,
+        "stock": 3,
+        "status": "Available"
+    },
+    {
+        "id": 46,
+        "name": "Printer 2",
+        "category": "Electronics",
+        "price": 220,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 47,
+        "name": "Desk Lamp 1",
+        "category": "Furniture",
+        "price": 40,
+        "stock": 15,
+        "status": "Available"
+    },
+    {
+        "id": 48,
+        "name": "Desk Lamp 2",
+        "category": "Furniture",
+        "price": 45,
+        "stock": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 49,
+        "name": "Mouse Pad 1",
+        "category": "Electronics",
+        "price": 5,
+        "stock": 20,
+        "status": "Available"
+    },
+    {
+        "id": 50,
+        "name": "Mouse Pad 2",
+        "category": "Electronics",
+        "price": 6,
+        "stock": 0,
+        "status": "Out of Stock"
+    }
+]

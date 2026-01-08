@@ -1,0 +1,25 @@
+{
+    "faqs": [
+        {
+            "question": "How to add a new customer?",
+            "answer": "Go to Customers page, click 'Add Customer', fill the form and submit."
+        },
+        {
+            "question": "How to track income?",
+            "answer": "Go to Income page to see monthly income, summary and recent transactions."
+        },
+        {
+            "question": "How to manage products?",
+            "answer": "Navigate to Products page. You can see all products in a responsive grid layout."
+        },
+        {
+            "question": "How to promote campaigns?",
+            "answer": "Use Promote page to create, track and monitor your campaigns."
+        }
+    ],
+    "support": {
+        "email": "rajdwipmajumder271@gmail.com.com",
+        "phone": "+8801703689271",
+        "hours": "Mon-Fri 9AM to 6PM"
+    }
+}

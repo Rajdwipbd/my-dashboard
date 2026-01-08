@@ -1,0 +1,94 @@
+{
+    "summary": [
+        {
+            "label": "Active Campaigns",
+            "value": 8
+        },
+        {
+            "label": "Completed Campaigns",
+            "value": 15
+        },
+        {
+            "label": "Total Reach",
+            "value": 12500
+        },
+        {
+            "label": "Total Spend",
+            "value": 4500
+        }
+    ],
+    "monthlyPerformance": [
+        {
+            "month": "Jan",
+            "reach": 1000,
+            "spend": 400
+        },
+        {
+            "month": "Feb",
+            "reach": 1200,
+            "spend": 500
+        },
+        {
+            "month": "Mar",
+            "reach": 900,
+            "spend": 350
+        },
+        {
+            "month": "Apr",
+            "reach": 1500,
+            "spend": 600
+        },
+        {
+            "month": "May",
+            "reach": 1300,
+            "spend": 550
+        },
+        {
+            "month": "Jun",
+            "reach": 1100,
+            "spend": 450
+        }
+    ],
+    "campaigns": [
+        {
+            "id": 1,
+            "name": "Social Media Ads",
+            "type": "Facebook",
+            "start": "2025-11-01",
+            "end": "2025-11-15",
+            "status": "Active",
+            "reach": 2000,
+            "spend": 800
+        },
+        {
+            "id": 2,
+            "name": "Email Newsletter",
+            "type": "Email",
+            "start": "2025-10-10",
+            "end": "2025-10-20",
+            "status": "Completed",
+            "reach": 1500,
+            "spend": 300
+        },
+        {
+            "id": 3,
+            "name": "Google Ads",
+            "type": "Search",
+            "start": "2025-11-05",
+            "end": "2025-11-25",
+            "status": "Paused",
+            "reach": 1000,
+            "spend": 400
+        },
+        {
+            "id": 4,
+            "name": "Banner Ads",
+            "type": "Website",
+            "start": "2025-12-01",
+            "end": "2025-12-10",
+            "status": "Active",
+            "reach": 1800,
+            "spend": 500
+        }
+    ]
+}

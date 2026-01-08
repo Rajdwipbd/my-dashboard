@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "customerName": "Raj Dwip",
+        "category": "Premium",
+        "phone": "+880170000001",
+        "email": "raj@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "customerName": "John Smith",
+        "category": "Regular",
+        "phone": "+880170000002",
+        "email": "john@example.com",
+        "country": "USA",
+        "status": "Inactive"
+    },
+    {
+        "id": 3,
+        "customerName": "Emily Carter",
+        "category": "Premium",
+        "phone": "+880170000003",
+        "email": "emily@example.com",
+        "country": "UK",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "customerName": "Rahim Uddin",
+        "category": "Standard",
+        "phone": "+880170000004",
+        "email": "rahim@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 5,
+        "customerName": "Sophia Khan",
+        "category": "Regular",
+        "phone": "+880170000005",
+        "email": "sophia@example.com",
+        "country": "India",
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "customerName": "Michael Brown",
+        "category": "Premium",
+        "phone": "+880170000006",
+        "email": "michael@example.com",
+        "country": "Canada",
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "customerName": "Salman Hossain",
+        "category": "Standard",
+        "phone": "+880170000007",
+        "email": "salman@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 8,
+        "customerName": "David Miller",
+        "category": "Regular",
+        "phone": "+880170000008",
+        "email": "david@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 9,
+        "customerName": "Nazia Rahman",
+        "category": "Premium",
+        "phone": "+880170000009",
+        "email": "nazia@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 10,
+        "customerName": "Jason Lee",
+        "category": "Standard",
+        "phone": "+880170000010",
+        "email": "jason@example.com",
+        "country": "Singapore",
+        "status": "Inactive"
+    },
+    {
+        "id": 11,
+        "customerName": "Ariana Silva",
+        "category": "Regular",
+        "phone": "+880170000011",
+        "email": "ariana@example.com",
+        "country": "Brazil",
+        "status": "Inactive"
+    },
+    {
+        "id": 12,
+        "customerName": "Andrew Parker",
+        "category": "Premium",
+        "phone": "+880170000012",
+        "email": "andrew@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 13,
+        "customerName": "Sadia Islam",
+        "category": "Standard",
+        "phone": "+880170000013",
+        "email": "sadia@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 14,
+        "customerName": "Chris Evans",
+        "category": "Regular",
+        "phone": "+880170000014",
+        "email": "evans@example.com",
+        "country": "Australia",
+        "status": "Active"
+    },
+    {
+        "id": 15,
+        "customerName": "Farhan Hasan",
+        "category": "Premium",
+        "phone": "+880170000015",
+        "email": "farhan@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 16,
+        "customerName": "Oliver James",
+        "category": "Standard",
+        "phone": "+880170000016",
+        "email": "oliver@example.com",
+        "country": "UK",
+        "status": "Inactive"
+    },
+    {
+        "id": 17,
+        "customerName": "Sarah Kim",
+        "category": "Regular",
+        "phone": "+880170000017",
+        "email": "sarah@example.com",
+        "country": "South Korea",
+        "status": "Inactive"
+    },
+    {
+        "id": 18,
+        "customerName": "Tanveer Alam",
+        "category": "Premium",
+        "phone": "+880170000018",
+        "email": "tanveer@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 19,
+        "customerName": "Eva Johnson",
+        "category": "Standard",
+        "phone": "+880170000019",
+        "email": "eva@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 20,
+        "customerName": "Mohit Verma",
+        "category": "Regular",
+        "phone": "+880170000020",
+        "email": "mohit@example.com",
+        "country": "India",
+        "status": "Active"
+    },
+    {
+        "id": 21,
+        "customerName": "Ayesha Akter",
+        "category": "Premium",
+        "phone": "+880170000021",
+        "email": "ayesha@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 22,
+        "customerName": "Daniel Wilson",
+        "category": "Standard",
+        "phone": "+880170000022",
+        "email": "daniel@example.com",
+        "country": "UK",
+        "status": "Inactive"
+    },
+    {
+        "id": 23,
+        "customerName": "Maria Davis",
+        "category": "Regular",
+        "phone": "+880170000023",
+        "email": "maria@example.com",
+        "country": "Canada",
+        "status": "Active"
+    },
+    {
+        "id": 24,
+        "customerName": "Bilal Chowdhury",
+        "category": "Premium",
+        "phone": "+880170000024",
+        "email": "bilal@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 25,
+        "customerName": "Samantha King",
+        "category": "Regular",
+        "phone": "+880170000025",
+        "email": "samantha@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 26,
+        "customerName": "Imran Rahman",
+        "category": "Standard",
+        "phone": "+880170000026",
+        "email": "imran@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 27,
+        "customerName": "Maya Sharma",
+        "category": "Premium",
+        "phone": "+880170000027",
+        "email": "maya@example.com",
+        "country": "India",
+        "status": "Inactive"
+    },
+    {
+        "id": 28,
+        "customerName": "Liam Anderson",
+        "category": "Regular",
+        "phone": "+880170000028",
+        "email": "liam@example.com",
+        "country": "UK",
+        "status": "Active"
+    },
+    {
+        "id": 29,
+        "customerName": "Neha Gupta",
+        "category": "Standard",
+        "phone": "+880170000029",
+        "email": "neha@example.com",
+        "country": "India",
+        "status": "Active"
+    },
+    {
+        "id": 30,
+        "customerName": "Thomas Roy",
+        "category": "Premium",
+        "phone": "+880170000030",
+        "email": "roy@example.com",
+        "country": "USA",
+        "status": "Inactive"
+    },
+    {
+        "id": 31,
+        "customerName": "Hamim Khan",
+        "category": "Regular",
+        "phone": "+880170000031",
+        "email": "hamim@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 32,
+        "customerName": "Olivia Clark",
+        "category": "Standard",
+        "phone": "+880170000032",
+        "email": "olivia@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 33,
+        "customerName": "Ethan Carter",
+        "category": "Premium",
+        "phone": "+880170000033",
+        "email": "ethan@example.com",
+        "country": "Canada",
+        "status": "Inactive"
+    },
+    {
+        "id": 34,
+        "customerName": "Hena Begum",
+        "category": "Standard",
+        "phone": "+880170000034",
+        "email": "hena@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 35,
+        "customerName": "Peter Moore",
+        "category": "Regular",
+        "phone": "+880170000035",
+        "email": "peter@example.com",
+        "country": "UK",
+        "status": "Active"
+    },
+    {
+        "id": 36,
+        "customerName": "Arif Hasan",
+        "category": "Premium",
+        "phone": "+880170000036",
+        "email": "arif@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 37,
+        "customerName": "Rima Sultana",
+        "category": "Regular",
+        "phone": "+880170000037",
+        "email": "rima@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 38,
+        "customerName": "Jack Thomas",
+        "category": "Standard",
+        "phone": "+880170000038",
+        "email": "jack@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 39,
+        "customerName": "Tanvir Islam",
+        "category": "Premium",
+        "phone": "+880170000039",
+        "email": "tanvir@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 40,
+        "customerName": "Stella Wright",
+        "category": "Regular",
+        "phone": "+880170000040",
+        "email": "stella@example.com",
+        "country": "UK",
+        "status": "Active"
+    },
+    {
+        "id": 41,
+        "customerName": "Adnan Kabir",
+        "category": "Premium",
+        "phone": "+880170000041",
+        "email": "kabir@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 42,
+        "customerName": "Nabila Naeem",
+        "category": "Standard",
+        "phone": "+880170000042",
+        "email": "nabila@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 43,
+        "customerName": "Maruf Rahman",
+        "category": "Regular",
+        "phone": "+880170000043",
+        "email": "maruf@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 44,
+        "customerName": "Chinmay Roy",
+        "category": "Premium",
+        "phone": "+880170000044",
+        "email": "chinmay@example.com",
+        "country": "India",
+        "status": "Active"
+    },
+    {
+        "id": 45,
+        "customerName": "Robert White",
+        "category": "Regular",
+        "phone": "+880170000045",
+        "email": "white@example.com",
+        "country": "USA",
+        "status": "Inactive"
+    },
+    {
+        "id": 46,
+        "customerName": "Arman Sheikh",
+        "category": "Premium",
+        "phone": "+880170000046",
+        "email": "arman@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 47,
+        "customerName": "Sadia Ritu",
+        "category": "Standard",
+        "phone": "+880170000047",
+        "email": "ritu@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 48,
+        "customerName": "Zara Khan",
+        "category": "Regular",
+        "phone": "+880170000048",
+        "email": "zara@example.com",
+        "country": "India",
+        "status": "Active"
+    },
+    {
+        "id": 49,
+        "customerName": "Mahdi Hasan",
+        "category": "Premium",
+        "phone": "+880170000049",
+        "email": "mahdi@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 50,
+        "customerName": "Jessica Lane",
+        "category": "Regular",
+        "phone": "+880170000050",
+        "email": "jessica@example.com",
+        "country": "Canada",
+        "status": "Active"
+    },
+    {
+        "id": 51,
+        "customerName": "Arka Biswas",
+        "category": "Standard",
+        "phone": "+880170000051",
+        "email": "arka@example.com",
+        "country": "India",
+        "status": "Inactive"
+    },
+    {
+        "id": 52,
+        "customerName": "Salma Akter",
+        "category": "Regular",
+        "phone": "+880170000052",
+        "email": "salma@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 53,
+        "customerName": "David Scott",
+        "category": "Premium",
+        "phone": "+880170000053",
+        "email": "scott@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 54,
+        "customerName": "Elena Wilson",
+        "category": "Standard",
+        "phone": "+880170000054",
+        "email": "wilson@example.com",
+        "country": "UK",
+        "status": "Inactive"
+    },
+    {
+        "id": 55,
+        "customerName": "Tisha Rahman",
+        "category": "Regular",
+        "phone": "+880170000055",
+        "email": "tisha@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 56,
+        "customerName": "Amir Khan",
+        "category": "Premium",
+        "phone": "+880170000056",
+        "email": "amir@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 57,
+        "customerName": "Mehjabin Jahan",
+        "category": "Regular",
+        "phone": "+880170000057",
+        "email": "mehjabin@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 58,
+        "customerName": "Rafi Ahmed",
+        "category": "Standard",
+        "phone": "+880170000058",
+        "email": "rafi@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 59,
+        "customerName": "Arman Hossain",
+        "category": "Premium",
+        "phone": "+880170000059",
+        "email": "hossain@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 60,
+        "customerName": "Lina Chowdhury",
+        "category": "Regular",
+        "phone": "+880170000060",
+        "email": "lina@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 61,
+        "customerName": "Jahirul Islam",
+        "category": "Standard",
+        "phone": "+880170000061",
+        "email": "jahirul@example.com",
+        "country": "Bangladesh",
+        "status": "Inactive"
+    },
+    {
+        "id": 62,
+        "customerName": "Richard Lee",
+        "category": "Regular",
+        "phone": "+880170000062",
+        "email": "richard@example.com",
+        "country": "USA",
+        "status": "Active"
+    },
+    {
+        "id": 63,
+        "customerName": "Aiman Zaman",
+        "category": "Premium",
+        "phone": "+880170000063",
+        "email": "aiman@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 64,
+        "customerName": "Kirti Mehta",
+        "category": "Regular",
+        "phone": "+880170000064",
+        "email": "kirti@example.com",
+        "country": "India",
+        "status": "Inactive"
+    },
+    {
+        "id": 65,
+        "customerName": "Monir Hossain",
+        "category": "Standard",
+        "phone": "+880170000065",
+        "email": "monir@example.com",
+        "country": "Bangladesh",
+        "status": "Active"
+    },
+    {
+        "id": 66,
+        "customerName": "Sara Mitchell",
+        "category": "Premium",
+        "phone": "+880170000066",
+        "email": "sara@example.com",
+        "country": "Canada",
+        "status": "Active"
+    }
+]
