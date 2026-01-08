@@ -5,6 +5,8 @@ A simple dashboard built with React.
 ## Features
 - React Components
 - State Management
+- Chart
+- Fetch
 - Table Filter & Search
 - Responsive UI
 
